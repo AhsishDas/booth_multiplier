@@ -1,2 +1,2 @@
 # booth_multiplier
-### Redix-2 8 bit Multiplier
+### Redix-2 8 bit Booth Multiplier
